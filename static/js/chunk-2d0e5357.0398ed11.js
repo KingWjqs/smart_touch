@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5357"],{9406:function(n,u,e){"use strict";e.r(u);var t=function(){var n=this,u=n._self._c;return u("div",[n._v("我是首页")])},c=[],l={},s=l,i=e("2877"),o=Object(i["a"])(s,t,c,!1,null,null,null);u["default"]=o.exports}}]);
